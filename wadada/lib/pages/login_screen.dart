@@ -45,7 +45,7 @@ class LoginScreen extends ConsumerWidget {
                   MaterialPageRoute(builder: (_) => const RegisterScreen()),
                 );
               },
-              child: const Text('Don\'t have an account? Register'),
+              child: const Text('Don\'t have an account? Sign Up'),
             ),
           ],
         ),
